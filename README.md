@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=15e5a6&height=120&section=header"/>
 
+<!-- @remind Nome testing no plural: Testing -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+my+name+is+testing;I+am+20+years+old;I+am+from+Brazil;I+work+as+a+.NET+Developer;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
@@ -27,8 +28,14 @@
 <img height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+</div>
+
+## Tools:
+
+<div>
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />&nbsp;&nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Cloud Services:
