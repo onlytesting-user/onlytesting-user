@@ -1,0 +1,7 @@
+{
+    "theme-by-language.themes": {
+    "*": "One Dark Pro Monokai Darker",
+    "filename:COMMIT_EDITMSG": "Default Dark Modern",
+  },
+  "workbench.colorTheme": "One Dark Pro Monokai Darker",
+}
