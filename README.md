@@ -12,10 +12,12 @@
 
 
 <div align="center">
-<a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://linkedin.com/in/joao-victor-bezerras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </div>
 <div align="center">
-<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 
