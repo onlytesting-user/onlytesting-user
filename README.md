@@ -24,17 +24,18 @@
 ## Main:
 
 <div>
-<img height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;&nbsp;
+
+<img height="70" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> &nbsp;&nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />&nbsp;&nbsp;&nbsp;
 <img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Tools:
 
 <div>
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />&nbsp;&nbsp;&nbsp;
-<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;&nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;&nbsp;&nbsp;
+<img height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />&nbsp;&nbsp;&nbsp;
 </div>
 
 ## Cloud Services:
