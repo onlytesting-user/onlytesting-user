@@ -16,7 +16,7 @@
 </a>
 </div>
 <div align="center">
-<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=jvbsilva5@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=joaovictorb.work@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
