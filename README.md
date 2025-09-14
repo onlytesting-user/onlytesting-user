@@ -66,9 +66,9 @@
 
   <p align="center">
     <samp>
-      <a href="https://github.com/onlytesting-user/setup_for_languages">settings</a> ⊹
+      <a href="https://github.com/onlytesting-user/go-setup-vscode/blob/main/settings.json">settings</a> ⊹
       <a href="https://github.com/onlytesting-user/ultim4te">oh-my-posh</a> ⊹
-      <a href="https://github.com/CodeAmbient/video-guides/blob/main/01-turning-vscode-into-neovim/keybindings.json">keybindings</a>
+      <a href="https://github.com/onlytesting-user/go-setup-vscode/blob/main/keybindings.json">keybindings</a>
     </samp>
   </p>
 
