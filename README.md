@@ -43,8 +43,8 @@
 
 <div align="center">
 
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/joao-victor-bezerras/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
 
 </div>
 
