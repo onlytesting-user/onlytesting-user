@@ -1,4 +1,9 @@
-## Credits / Assets
+# 🎞️ Credits
 
-- Gopher Workout GIF by [brudnak](https://gist.github.com/brudnak/efd7b887bd7c0441d8bb88ae1c77374a)
-- Gopher Shaking GIF from [Tenor](https://tenor.com/view/gopher-shaking-gif-9529188413831971635)
+This project includes GIFs provided by the creators below, available via [GIPHY](https://giphy.com):
+
+- [Pudgy Penguins](https://giphy.com/pudgypenguins) — [GIF link](https://media1.giphy.com/media/8VdF6eUDd2e96lmyOB/giphy.gif)
+- [Grelldenker](https://giphy.com/Grelldenker) — [GIF link](https://media3.giphy.com/media/HxFDhA4TSjaxwI6T3s/giphy.gif)
+
+> All GIFs are used under GIPHY’s embedding and sharing terms.
+
