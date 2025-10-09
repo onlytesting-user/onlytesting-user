@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img width="560" src="https://skillicons.dev/icons?i=cs,postgres,dotnet,mongodb,git,redis,docker,azure,postman,rabbitmq" />
+    <img width="500" src="https://skillicons.dev/icons?i=cs,postgres,dotnet,mongodb,git,redis,docker,azure,postman,rabbitmq" />
   </a>
 </div>
 
