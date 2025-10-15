@@ -4,7 +4,7 @@
 
 <p align="left">
 
-I'm an enthusiast of Back-End Web Development, and the language I chose to specialize in is C# (.NET) — a powerful, elegant, and well-balanced technology that makes building APIs intuitive and reliable within the robust Microsoft ecosystem.
+I'm an enthusiast of Back-End Web Development, and the language I chose to specialize in is **C# (.NET)** — a powerful, elegant, and well-balanced technology that makes building APIs intuitive and reliable within the robust Microsoft ecosystem.
 
 I'm always thinking about the best project architecture, the best coding practices, and the most efficient way to write an algorithm, balancing speed and effectiveness.
 
