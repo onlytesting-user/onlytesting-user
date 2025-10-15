@@ -8,8 +8,8 @@ I'm an enthusiast of Back-End Web Development, and the language I chose to speci
 
 I'm always thinking about the best project architecture, the best coding practices, and the most efficient way to write an algorithm, balancing speed and effectiveness.
 
-> “The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.”
-**— Edsger W. Dijkstra**
+> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”
+**— Alan Turing**
 
 </p>
 
