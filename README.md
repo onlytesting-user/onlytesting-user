@@ -83,7 +83,7 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 
 ### ⚙️ GitHub Analytics
 
-<div align="left">
+<div align="center">
   <img src="./profile/stats.svg" width="50%" style="display:inline-block;" />
   <img src="./profile/langs.svg" width="37.98%" style="display:inline-block;" />
 </div>
