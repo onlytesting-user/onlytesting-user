@@ -28,7 +28,7 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 
 ### 🛠️ Tech Stack
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a>
