@@ -21,12 +21,12 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
 
 </p>
 
-### 🌐 Connect with me!
+### :globe_with_meridians: Connect with me!
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
 
-### 🛠️ Tech Stack
+### :hammer_and_wrench: Tech Stack
 
 <table align="center">
   <tr>
@@ -81,7 +81,7 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
   </tr>
 </table>
 
-### ⚙️ GitHub Analytics
+### :gear: GitHub Analytics
 
 <div align="center">
   <img src="./profile/stats.svg" width="50%" style="display:inline-block;" />
