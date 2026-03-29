@@ -1,25 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=120&section=header"/>
-
 <h1 align="center">:wave: Hello there! I'm João Victor</h1>
 
-<p align="left">
+<picture>
+  <source srcset="profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="profile/light-stats.svg" media="(prefers-color-scheme: light)" />
+  <img src="profile/dark-stats.svg" width="42%" align="right" />
+</picture>
 
-I'm a DevOps Engineer focused on building scalable, reliable, and automated systems. Experienced with containerization, CI/CD pipelines, and Linux-based environments, with a strong interest in improving deployment efficiency and system stability.
-
-Driven by continuous improvement, I focus on creating streamlined workflows, reducing manual processes, and ensuring consistent and maintainable infrastructure.
-
+- :computer: &nbsp;I'm a **Database Administrator (DBA)**
+- :office: &nbsp;I'm working at **[Myself]**
 - :seedling: &nbsp;I’m currently learning **Terraform**
-
-- :speech_balloon: &nbsp;I like to talk about **Cloud** and **Infrastructure**
-
+- :book: &nbsp;Know about my experiences on my **[Resume]**
+- :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
+- :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :zap: &nbsp;I'm automating something now!
 
 <br>
-
-> “We can only see a short distance ahead, but we can see plenty there that needs to be done.”
-**— Alan Turing**
-
-</p>
 
 ### :globe_with_meridians: Connect with me!
 
@@ -32,45 +27,45 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Python
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>Docker
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
       </a>
-      <br>AWS
+      <br>SQL Server
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="Azure SQL Database" />
       </a>
-      <br>Kubernetes
+      <br>Azure SQL
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Jenkins
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
       </a>
-      <br>GitHub Actions
+      <br>RedisDB
     </td>
     <td align="center"  width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="48" height="48" alt="DynamoDB" />
       </a>
-      <br>Terraform
+      <br>DynamoDB
     </td>
     <td align="center" width="96">
       <a>
@@ -81,11 +76,8 @@ Driven by continuous improvement, I focus on creating streamlined workflows, red
   </tr>
 </table>
 
-### :gear: GitHub Analytics
+<!-- Links -->
 
-<div align="center">
-  <img src="./profile/stats.svg" height="185" align="center" />&nbsp;
-  <img src="./profile/langs.svg" height="185" align="center" />
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=120&section=footer">
+[Myself]: https://github.com/onlytesting-user/Readme_Code
+[Issues page]: https://github.com/onlytesting-user/Readme_Code/issues
+[Resume]: https://github.com/onlytesting-user/linkedin-background
