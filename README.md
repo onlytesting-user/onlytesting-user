@@ -3,7 +3,7 @@
 <picture>
   <source srcset="profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
   <source srcset="profile/light-stats.svg" media="(prefers-color-scheme: light)" />
-  <img src="profile/dark-stats.svg" width="42%" align="right" />
+  <img src="profile/dark-stats.svg" width="48%" align="right" />
 </picture>
 
 - :computer: &nbsp;I'm a **Database Administrator (DBA)**
