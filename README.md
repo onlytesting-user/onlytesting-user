@@ -14,7 +14,7 @@
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :zap: &nbsp;I'm automating something now!
 
-<br>
+<br clear="right">
 
 ### :globe_with_meridians: Connect with me!
 
