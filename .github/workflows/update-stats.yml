@@ -13,21 +13,27 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - name: Generate Stats SVG
+      # 🌙 DARK THEME
+
+      - name: Generate Dark Stats SVG
         uses: soulteary/github-readme-stats-action@main
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=000&border_color=fff&border_radius=6&text_color=c0c0c0&title_color=e38c00&include_all_commits=true&count_private=true&hide_rank=true'
-          path: profile/stats.svg
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=000&border_color=fff&border_radius=6&text_color=c0c0c0&title_color=e38c00&include_all_commits=true&count_private=true&rank_icon=github'
+          path: profile/dark-stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate Top Langs SVG
+      # ☀️ LIGHT THEME
+
+      - name: Generate Light Stats SVG
         uses: soulteary/github-readme-stats-action@main
         with:
-          card: top-langs
-          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=8&bg_color=000&border_color=fff&border_radius=6&text_color=c0c0c0&title_color=e38c00&hide=html,css,java,javascript,typescript'
-          path: profile/langs.svg
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&bg_color=fff&border_color=000&border_radius=6&text_color=000&title_color=e38c00&include_all_commits=true&count_private=true&rank_icon=github'
+          path: profile/light-stats.svg
           token: ${{ secrets.GH_TOKEN }}
+
+      # 📦 COMMIT
 
       - name: Commit and Push
         run: |
