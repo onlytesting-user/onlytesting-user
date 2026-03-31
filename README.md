@@ -1,4 +1,4 @@
-<h1 align="center">:wave: Hello there! I'm João Victor</h1>
+<h1 align="center">Greetings, I'm João Victor</h1>
 
 <h3>I'm a Database Administrator (DBA)</h3>
 
