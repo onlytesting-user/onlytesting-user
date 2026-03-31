@@ -1,27 +1,31 @@
 <h1 align="center">:wave: Hello there! I'm João Victor</h1>
 
+<h3>I'm a Database Administrator (DBA)</h3>
+
 <picture>
-  <source srcset="profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="profile/light-stats.svg" media="(prefers-color-scheme: light)" />
-  <img src="profile/dark-stats.svg" width="48%" align="right" />
+  <source srcset="./profile/dark-stats.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="./profile/light-stats.svg" media="(prefers-color-scheme: light)" />
+  <img src="./profile/dark-stats.svg" width="48%" align="right" />
 </picture>
 
-- :computer: &nbsp;I'm a **Database Administrator (DBA)**
-- :office: &nbsp;I'm working at **[Myself]**
+- :office: &nbsp;I'm working for **[Myself]**
 - :seedling: &nbsp;I’m currently learning **Terraform**
-- :book: &nbsp;Know about my experiences on my **[Resume]**
-- :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
+- :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
 - :zap: &nbsp;I'm automating something now!
 
-<br clear="right">
+<br>
 
 ### :globe_with_meridians: Connect with me!
+
+> Professional channels for networking and collaboration.
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-000?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:theuglyduck272@gmail.com)
 
 ### :hammer_and_wrench: Tech Stack
+
+> My current technical toolkit and preferred technologies.
 
 <table align="center">
   <tr>
@@ -69,9 +73,9 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
       </a>
-      <br>Ansible
+      <br>Terraform
     </td>
   </tr>
 </table>
@@ -80,4 +84,3 @@
 
 [Myself]: https://github.com/onlytesting-user/Readme_Code
 [Issues page]: https://github.com/onlytesting-user/Readme_Code/issues
-[Resume]: https://github.com/onlytesting-user/linkedin-background
