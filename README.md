@@ -14,7 +14,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
 - :zap: &nbsp;I'm automating something now!
 
-<br>
+<br clear="right">
 
 ### :globe_with_meridians: Connect with me!
 
