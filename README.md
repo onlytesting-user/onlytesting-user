@@ -8,7 +8,7 @@
   <img src="./profile/dark-stats.svg" width="48%" align="right" />
 </picture>
 
-- :office: &nbsp;I'm working for **[Myself]**
+- :telescope: &nbsp;I'm working for **[Myself]**
 - :seedling: &nbsp;I’m currently learning **Terraform**
 - :mailbox: &nbsp;Ask me anything on my **[Issues page]**
 - :speech_balloon: &nbsp;I like to talk about **Database** and **Infrastructure**
